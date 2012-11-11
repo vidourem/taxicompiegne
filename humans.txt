@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
-
+  Web Developer: David Rémy
+  Twitter: @vidourem
+  Location: Paris, France
+  
+  Content Editor: Francis Ledoux
+  Site: http://www.taxi-compiegne.eu
+  Location: Compiègne, France
+  
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    HTML5Boilerplate, Bootstrap
