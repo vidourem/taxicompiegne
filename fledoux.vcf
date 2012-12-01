@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=fr:LEDOUX;Francis;;M.
+FN:M. Francis LEDOUX
+TEL;CELL;VOICE:+33 (0) 607755526
+ADR;WORK;PREF:;;8 bis rue de l'Aigle;Choisy-au-Bac;Oise;60750;France
+LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE:8 bis rue de l'Aigle=0D=0A=
+60750  Choisy-au-Bac  Oise
+X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
+URL;WORK:http://www.taxi-compiegne.eu
+EMAIL;PREF;INTERNET:francis.ledoux@taxi-compiegne.eu
+REV:20121104T222417Z
+END:VCARD
